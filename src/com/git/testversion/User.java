@@ -10,6 +10,8 @@ public class User {
 	
 	private Integer id;
 	
+	private String name3;
+	
 	private int id0;
 	
 	private Long IDCard;
