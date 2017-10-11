@@ -6,6 +6,12 @@ public class User {
 	private String age;
 	
 	private String sex;
+	
+	private String name;
+	
+	public User(){
+		
+	}
 
 	public int getId() {
 		return id;
