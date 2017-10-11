@@ -19,9 +19,6 @@ public class User {
 		this.age = age;
 	}
 
-	public void setId(int id) {
-		this.id = id;
-	}
 
 	public String getAge() {
 		return age;
