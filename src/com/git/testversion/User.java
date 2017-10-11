@@ -14,6 +14,8 @@ public class User {
 	
 	private int id3;
 	
+	private int id0;
+	
 
 	public int getId2() {
 		return id2;
