@@ -14,6 +14,7 @@ public class User {
 	
 	private int id3;
 	
+
 	public int getId2() {
 		return id2;
 	}
@@ -21,8 +22,6 @@ public class User {
 	public void setId2(int id2) {
 		this.id2 = id2;
 	}
-
-
 	
 	private Long IDCard;
 	
