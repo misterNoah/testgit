@@ -1,5 +1,7 @@
 package com.git.testversion;
 
+import java.util.Date;
+
 public class User {
 	private int id;
 	
@@ -8,6 +10,8 @@ public class User {
 	private String sex;
 	
 	private String name;
+	
+	private Date birthday;
 	
 	public User(){
 		
