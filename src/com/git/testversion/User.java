@@ -8,8 +8,18 @@ public class User {
 	
 	private String name;
 	
+	private Integer id;
+	
 	private Long IDCard;
 	
+	public Long getIDCard() {
+		return IDCard;
+	}
+
+	public void setIDCard(Long iDCard) {
+		IDCard = iDCard;
+	}
+
 	public User(){
 		
 	}
