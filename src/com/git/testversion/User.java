@@ -9,6 +9,8 @@ public class User {
 	
 	private String name;
 	
+	private Long IDCard;
+	
 	public User(){
 		
 	}
