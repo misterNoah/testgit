@@ -12,7 +12,6 @@ public class User {
 	
 	private int id2;
 	
-	private int id3;
 	
 	private int id0;
 	
