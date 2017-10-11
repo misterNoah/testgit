@@ -12,6 +12,8 @@ public class User {
 	
 	private int id2;
 	
+	private int id3;
+	
 	private Long IDCard;
 	
 	public Long getIDCard() {
