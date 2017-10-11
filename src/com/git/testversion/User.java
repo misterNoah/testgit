@@ -10,6 +10,8 @@ public class User {
 	
 	private Integer id;
 	
+	private int id2;
+	
 	private Long IDCard;
 	
 	public Long getIDCard() {
