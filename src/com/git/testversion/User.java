@@ -12,10 +12,8 @@ public class User {
 	
 	private int id2;
 	
-	
 	private int id0;
 	
-
 	public int getId2() {
 		return id2;
 	}
