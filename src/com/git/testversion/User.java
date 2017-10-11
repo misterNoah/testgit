@@ -8,6 +8,8 @@ public class User {
 	
 	private String name;
 	
+	private String name2;
+	
 	private Integer id;
 	
 	private int id0;
