@@ -10,17 +10,7 @@ public class User {
 	
 	private Integer id;
 	
-	private int id2;
-	
 	private int id0;
-	
-	public int getId2() {
-		return id2;
-	}
-
-	public void setId2(int id2) {
-		this.id2 = id2;
-	}
 	
 	private Long IDCard;
 	
