@@ -32,6 +32,15 @@ public class User {
 		IDCard = iDCard;
 	}
 
+	
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public Integer getId() {
+		return id;
+	}
+
 	public void setId(Integer id) {
 		this.id = id;
 	}
@@ -44,17 +53,7 @@ public class User {
 		this.name = name;
 		this.age = age;
 	}
-
-
-
-	public int getId() {
-		return id;
-	}
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
+	
 	public String getAge() {
 		return age;
 	}
