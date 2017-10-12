@@ -7,6 +7,8 @@ public class GitVersionTest {
 	private String name;
 	
 	private String add;
+	
+	private int id;
 
 	public static void main(String[] args) {
 		System.out.println("hello word");
