@@ -8,7 +8,7 @@ public class GitVersionTest {
 	
 	private String add;
 	
-
+	private String sex;
 	private int id;
 
 	public static void main(String[] args) {
