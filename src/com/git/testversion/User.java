@@ -3,9 +3,10 @@ package com.git.testversion;
 import java.util.Date;
 
 public class User {
-	private int id;
-	
+
 	private String age;
+	
+	private int age3;
 	
 	private String sex;
 	
@@ -13,6 +14,28 @@ public class User {
 	
 	private Date birthday;
 	
+	private String name2;
+	
+	private Integer id;
+	
+	private String name3;
+	
+	private int id0;
+	
+	private Long IDCard;
+	
+	public Long getIDCard() {
+		return IDCard;
+	}
+
+	public void setIDCard(Long iDCard) {
+		IDCard = iDCard;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
 	public User(){
 		
 	}
@@ -21,6 +44,8 @@ public class User {
 		this.name = name;
 		this.age = age;
 	}
+
+
 
 	public int getId() {
 		return id;
