@@ -8,6 +8,7 @@ public class GitVersionTest {
 	
 	private String add;
 	
+
 	private int id;
 
 	public static void main(String[] args) {
